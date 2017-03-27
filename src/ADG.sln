@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26228.9
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADG.Tests", "ADG.Tests\ADG.Tests\ADG.Tests.csproj", "{0C625319-E085-4442-A9F5-51F3AAB99642}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADG.Lib", "ADG.Lib\ADG.Lib.csproj", "{9FB1C23F-5B5E-48CA-B665-ADF85F7CAF7D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADG.Lib.Tests", "ADG.Lib.Tests\ADG.Lib.Tests.csproj", "{2129C411-1816-4DBA-973F-152E3E750AC2}"
@@ -15,12 +13,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{0C625319-E085-4442-A9F5-51F3AAB99642}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0C625319-E085-4442-A9F5-51F3AAB99642}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0C625319-E085-4442-A9F5-51F3AAB99642}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
-		{0C625319-E085-4442-A9F5-51F3AAB99642}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0C625319-E085-4442-A9F5-51F3AAB99642}.Release|Any CPU.Build.0 = Release|Any CPU
-		{0C625319-E085-4442-A9F5-51F3AAB99642}.Release|Any CPU.Deploy.0 = Release|Any CPU
 		{9FB1C23F-5B5E-48CA-B665-ADF85F7CAF7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{9FB1C23F-5B5E-48CA-B665-ADF85F7CAF7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9FB1C23F-5B5E-48CA-B665-ADF85F7CAF7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
